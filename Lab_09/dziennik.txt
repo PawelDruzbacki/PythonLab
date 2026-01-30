@@ -1,0 +1,3 @@
+Pierwszy wpis.
+Wszystko działa.
+Kolejna linijka.
